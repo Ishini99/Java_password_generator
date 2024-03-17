@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1e33a0-26a7-40be-8c69-594fe0ad2a83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Password Generator/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="8f1e33a0-26a7-40be-8c69-594fe0ad2a83" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Ishini Ekanayake/Downloads/Password-Generator-master",
+    "last_opened_file_path": "C:/Users/Ishini Ekanayake/Documents/GitHub/Java_password_generator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +56,7 @@
       <workItem from="1708757070036" duration="1950000" />
       <workItem from="1708761568793" duration="968000" />
       <workItem from="1708780373196" duration="1498000" />
+      <workItem from="1709569532259" duration="90000" />
     </task>
     <servers />
   </component>
